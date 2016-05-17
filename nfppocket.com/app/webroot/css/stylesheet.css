@@ -1,0 +1,89 @@
+body {
+	background-color: #96AEE6;
+	font-family: Papyrus;
+}
+#header {
+	background-color: #AEC1ED;
+	width: 90%;
+	margin: auto;
+	font-size: 1.25em;
+	color: white;
+	border: 6px solid #1D2439;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+	font-size: 50%;
+}
+
+table td {
+	border-bottom: 1px solid #999;
+}
+
+#chartadd {
+	text-align: center;
+}
+
+legend {
+	background:#3D496E;
+	color: white;
+	text-align:center;
+	border:1px solid black;
+	border-radius: 4px;
+}
+
+.legend {
+    text-align: center;
+}
+
+div.row {
+  clear: both;
+  padding-top: 10px;
+}
+  
+form label {
+  float: left;
+  width: 40%;
+  text-align: right;
+  font-size: 75%;
+}
+
+form input {
+  float: right;
+  width: 55%;
+  text-align: left;
+} 
+
+div select {
+	width: 100px;
+	font: inherit;
+	font-size: 70%;
+}
+
+input[type="date"], input[type="time"] {
+	width: 20px;
+	font: inherit;
+	font-size: 70%;
+}
+
+#extra_time {
+	font-size: .75em;
+	text-align: center;
+}
+
+div.submit input {
+	clear: both;
+	width:150px;
+	height: 50px;
+	font: inherit;
+	text-align: center;
+	color: white;
+	background-color: #C5A7C5;
+	border-radius: 30px;
+	-webkit-appearance: none;
+	padding-left:0;
+	padding-right:0;
+	display:block;
+}
+
